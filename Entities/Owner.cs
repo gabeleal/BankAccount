@@ -15,6 +15,15 @@ namespace BankAccount.Entities
             Addres = addres; 
             OwnerId = id;
         }
-        
+        public override string ToString()
+        {
+            return "Owners Data"
+                    + " Name: "
+                    + Name
+                    + " addres: "
+                    + Addres
+                    + " ID: "
+                    + OwnerId;
+        }
     }
 }

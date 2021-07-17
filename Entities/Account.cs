@@ -11,9 +11,9 @@ namespace BankAccount.Entities
         
         public Account(Owner owner, double value)
         {
-            Random rnd = new Random();
+            Random rnd = new Random();   
             Number = rnd.Next(9999).ToString("D5");
-            Deposit(value);
+            Deposit(value); 
             Owner = owner;
         }
 
