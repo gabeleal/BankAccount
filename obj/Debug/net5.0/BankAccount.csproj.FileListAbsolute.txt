@@ -1,0 +1,16 @@
+/home/gabrielleal/Development/Portifolio/Dotnet/BankAccount/bin/Debug/net5.0/BankAccount
+/home/gabrielleal/Development/Portifolio/Dotnet/BankAccount/bin/Debug/net5.0/BankAccount.deps.json
+/home/gabrielleal/Development/Portifolio/Dotnet/BankAccount/bin/Debug/net5.0/BankAccount.runtimeconfig.json
+/home/gabrielleal/Development/Portifolio/Dotnet/BankAccount/bin/Debug/net5.0/BankAccount.runtimeconfig.dev.json
+/home/gabrielleal/Development/Portifolio/Dotnet/BankAccount/bin/Debug/net5.0/BankAccount.dll
+/home/gabrielleal/Development/Portifolio/Dotnet/BankAccount/bin/Debug/net5.0/ref/BankAccount.dll
+/home/gabrielleal/Development/Portifolio/Dotnet/BankAccount/bin/Debug/net5.0/BankAccount.pdb
+/home/gabrielleal/Development/Portifolio/Dotnet/BankAccount/obj/Debug/net5.0/BankAccount.csprojAssemblyReference.cache
+/home/gabrielleal/Development/Portifolio/Dotnet/BankAccount/obj/Debug/net5.0/BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabrielleal/Development/Portifolio/Dotnet/BankAccount/obj/Debug/net5.0/BankAccount.AssemblyInfoInputs.cache
+/home/gabrielleal/Development/Portifolio/Dotnet/BankAccount/obj/Debug/net5.0/BankAccount.AssemblyInfo.cs
+/home/gabrielleal/Development/Portifolio/Dotnet/BankAccount/obj/Debug/net5.0/BankAccount.csproj.CoreCompileInputs.cache
+/home/gabrielleal/Development/Portifolio/Dotnet/BankAccount/obj/Debug/net5.0/BankAccount.dll
+/home/gabrielleal/Development/Portifolio/Dotnet/BankAccount/obj/Debug/net5.0/ref/BankAccount.dll
+/home/gabrielleal/Development/Portifolio/Dotnet/BankAccount/obj/Debug/net5.0/BankAccount.pdb
+/home/gabrielleal/Development/Portifolio/Dotnet/BankAccount/obj/Debug/net5.0/BankAccount.genruntimeconfig.cache
